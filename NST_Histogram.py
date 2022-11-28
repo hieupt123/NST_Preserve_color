@@ -38,7 +38,7 @@ def getContentSize(path_image):
 
 
 path_style = 'style-images/candy.jpg'
-root_img = 'content-images'
+root_img = 'content-jpg'
 # getContentSize('content-images/0003.png')
 # sys.exit()
 
